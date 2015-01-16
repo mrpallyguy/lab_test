@@ -16,6 +16,7 @@
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
 
+<<<<<<< HEAD
 # =========================
 # Operating System Files
 # =========================
@@ -62,3 +63,15 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+=======
+# Unity .gitignore file.
+.DS_Store
+Library
+Library/*
+*.csproj
+*.sln
+*.userprefs
+Temp
+*.pidb
+Build
+>>>>>>> c7882d74914106cf29cd9b7c36ef9a828d38675a
